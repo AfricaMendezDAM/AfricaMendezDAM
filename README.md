@@ -31,20 +31,22 @@ I also enjoy exploring new projects—both personal initiatives and client-based
 | Portfolio | <img src="ruta/a/gif.png" height="150"/> |
 -->
 
-## Contact us
+- 🔭 Currently developing software applications that turn complex human insights into practical, impactful tools  
+- 🌱 Exploring cutting-edge technologies like edge computing, real-time analytics, and advanced algorithms for scalable applications
+- 👯 Open to collaborating on innovative projects that challenge conventions and push creative or technical boundaries
+- 🤔 Seeking guidance or mentorship on advanced algorithms, architecture design, or tackling complex software problems
+
+
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/africamendezdam/?locale=en_US" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:amendezperera@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 
 
-- 🔭 Currently developing software applications that turn complex human insights into practical, impactful tools  
-- 🌱 Exploring cutting-edge technologies like edge computing, real-time analytics, and advanced algorithms for scalable applications
-- 👯 Open to collaborating on innovative projects that challenge conventions and push creative or technical boundaries
-- 🤔 Seeking guidance or mentorship on advanced algorithms, architecture design, or tackling complex software problems
