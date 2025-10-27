@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm África 👩‍💻 </h1>
-<p align="center">Software Developer | Psychometrics & Data-driven Tools | Research & Personal Projects</p>
+<p align="center">Software Developer | Psychologist | Creating Insightful, Data-driven Tools | Research & Personal Projects</p>
 
 <!--
 <div align="center">
@@ -35,6 +35,9 @@ I also enjoy exploring new projects—both my own ideas and client-based ones—
 
 <a href="https://www.linkedin.com/in/africamendezdam/?locale=en_US" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+
+
+
 
 - 🔭 Currently developing software applications that turn complex human insights into practical, impactful tools  
 - 🌱 Exploring cutting-edge technologies like edge computing, real-time analytics, and advanced algorithms for scalable applications
