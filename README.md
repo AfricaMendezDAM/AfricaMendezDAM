@@ -35,8 +35,11 @@ I also enjoy exploring new projects—both personal initiatives and client-based
 ## Skills & Technologies
 
 **Programming & Development:** PHP, Laravel, C#, Java, Angular, Python, SQL, Postgres
+
 **Data & Analytics:** Multivariate data analysis, statistical modeling, SPSS, Python, SQL, data visualization, clustering (K-means, hierarchical), PCA, regression models, foundations of LLM applications
+
 **Tools & Workflows:** Git, GitHub, Docker, Linux, VS Code, IntelliJ  
+
 **Other Skills:** Psychometrics, UX insights, software design, problem-solving, project experimentation
 
 
