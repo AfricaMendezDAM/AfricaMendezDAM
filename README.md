@@ -20,6 +20,7 @@
 
 With a foundation in Psychology and Software Development, I create tools that transform insights into actionable solutions. I focus on building applications and algorithms where psychometric variables play a central role, designing systems that seamlessly combine data, logic, and human understanding.
 
+
 I also enjoy exploring new projects—both personal initiatives and client-based work—that challenge me to experiment with innovative technologies and approaches.
 
 
@@ -31,7 +32,8 @@ I also enjoy exploring new projects—both personal initiatives and client-based
 | Portfolio | <img src="ruta/a/gif.png" height="150"/> |
 -->
 
-- 🔭 Currently developing software applications that turn complex human insights into practical, impactful tools  
+- 🔭 Currently developing applications that leverage psychometric data for real-world impact
+
 - 🌱 Exploring cutting-edge technologies like edge computing, real-time analytics, and advanced algorithms for scalable applications
 - 👯 Open to collaborating on innovative projects that challenge conventions and push creative or technical boundaries
 - 🤔 Seeking guidance or mentorship on advanced algorithms, architecture design, or tackling complex software problems
