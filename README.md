@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm África 👩‍💻 </h1>
+<h1 align="center">Hello! I'm África ⚙️🧠💻 </h1>
 <p align="center">Software Developer | Psychologist | Creating Insightful, Data-driven Tools | Research & Personal Projects</p>
 
 <!--
