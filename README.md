@@ -18,9 +18,9 @@
 
 ## About
 
-I started in Psychology, but now I'm finishing my Software Development degree. I focus on building software and algorithms where psychometric variables are at the core, creating tools that combine data, logic, and human understanding.
+With a foundation in Psychology and Software Development, I create tools that transform insights into actionable solutions. I focus on building applications and algorithms where psychometric variables play a central role, designing systems that seamlessly combine data, logic, and human understanding.
 
-I also enjoy exploring new projects—both my own ideas and client-based ones—that challenge me to experiment with different technologies and approaches.
+I also enjoy exploring new projects—both personal initiatives and client-based work—that challenge me to experiment with innovative technologies and approaches.
 
 
 <!--## Projects
@@ -33,9 +33,14 @@ I also enjoy exploring new projects—both my own ideas and client-based ones—
 
 ## Contact us
 
-<a href="https://www.linkedin.com/in/africamendezdam/?locale=en_US" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/africamendezdam/?locale=en_US" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 
 
