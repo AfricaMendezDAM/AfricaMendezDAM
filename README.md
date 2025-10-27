@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <a href="#about-me"><b>About Me</b></a> •
+  <a href="#about"><b>About</b></a> •
   <a href="#projects"><b>Projects</b></a> •
   <a href="#skills--technologies"><b>Skills</b></a> •
   <a href="#contact"><b>Contact</b></a>
