@@ -32,6 +32,7 @@ I also enjoy exploring new projects—both personal initiatives and client-based
 | Portfolio | <img src="ruta/a/gif.png" height="150"/> |
 -->
 
+
 ## Skills & Technologies
 
 **Programming & Development:** PHP, Laravel, C#, Java, Angular, Python, SQL, Postgres
@@ -43,12 +44,14 @@ I also enjoy exploring new projects—both personal initiatives and client-based
 **Other Skills:** Psychometrics, UX insights, software design, problem-solving, project experimentation
 
 
+
 ## Current Focus
 
 - 🔭 Developing applications that leverage psychometric data for real-world impact
 - 🌱 Exploring cutting-edge technologies like edge computing, real-time analytics, and advanced algorithms for scalable applications
 - 👯 Open to collaborating on innovative projects that challenge conventions and push creative or technical boundaries
 - 🤔 Seeking guidance or mentorship on advanced algorithms, architecture design, or tackling complex software problems
+
 
 
 ## Contact
