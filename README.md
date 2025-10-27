@@ -18,26 +18,23 @@
 
 ## About
 
-## About Me
-
 I started in Psychology, but now I'm finishing my Software Development degree. I focus on building software and algorithms where psychometric variables are at the core, creating tools that combine data, logic, and human understanding.
 
 I also enjoy exploring new projects—both my own ideas and client-based ones—that challenge me to experiment with different technologies and approaches.
 
 
-## Projects
+<!--## Projects
 
 | Project | Demo |
 | ------- | ---- |
 | Coches Scraper | <img src="ruta/a/gif.png" height="150"/> |
 | Portfolio | <img src="ruta/a/gif.png" height="150"/> |
-
+-->
 
 ## Contact us
 
 <a href="https://www.linkedin.com/in/africamendezdam/?locale=en_US" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
+ <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 
 - 🔭 Currently developing software applications that turn complex human insights into practical, impactful tools  
 - 🌱 Exploring cutting-edge technologies like edge computing, real-time analytics, and advanced algorithms for scalable applications
