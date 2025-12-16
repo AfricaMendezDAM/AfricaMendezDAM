@@ -18,7 +18,7 @@
 
 ## About
 
-With a foundation in Psychology and Software Development, I create tools that transform insights into actionable solutions. I focus on building applications and algorithms where psychometric variables play a central role, designing systems that seamlessly combine data, logic, and human understanding.
+With a foundation in Psychology and Software Development, I create tools that transform insights into actionable solutions. I focus on building applications and algorithms where behavioral variables play a central role, designing systems that seamlessly combine data, logic, and human understanding.
 
 
 I also enjoy exploring new projects—both personal initiatives and client-based work—that challenge me to experiment with innovative technologies and approaches.
