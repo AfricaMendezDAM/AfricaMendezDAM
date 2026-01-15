@@ -48,7 +48,7 @@ I also enjoy exploring new projects—both personal initiatives and client-based
 ## Current Focus
 
 - 🔭 Developing applications that leverage psychometric data for real-world impact
-- 🌱 Exploring cutting-edge technologies like edge computing, real-time analytics, and advanced algorithms for scalable applications
+- 🌱 Exploring cutting-edge technologies like edge computing, real-time analytics, and advanced algorithms for scalable applications. Interested in cloud solutions and aspiring to grow into a Product Owner role in the future.
 - 👯 Open to collaborating on innovative projects that challenge conventions and push creative or technical boundaries
 - 🤔 Seeking guidance or mentorship on advanced algorithms, architecture design, or tackling complex software problems
 
