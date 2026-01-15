@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm África ⚙️🧠💻 </h1>
-<p align="center">Software Developer | Psychologist | Creating Insightful, Data-driven Tools | Research & Personal Projects</p>
+<p align="center">Full Stack Developer | Creating Insightful, Data-driven Tools | Research & Personal Projects</p>
 
 <!--
 <div align="center">
@@ -35,11 +35,11 @@ I also enjoy exploring new projects—both personal initiatives and client-based
 
 ## Skills & Technologies
 
-**Programming & Development:** PHP, Laravel, C#, Java, SpringBoot, Angular, HTML-5, CSS, .NET (WPF, WinForms), Python, SQL, Postgres
+**Programming & Development:** PHP (Laravel), C#, Java, SpringBoot, Hibernate, Angular, JavaScript (Node.JS), HTML-5, CSS, .NET (WPF, WinForms), Python, SQL, Postgres
 
 **Data & Analytics:** Multivariate data analysis, statistical modeling, SPSS, Python, SQL, data visualization, clustering (K-means, hierarchical), PCA, regression models, foundations of LLM applications
 
-**Tools & Workflows:** Git, GitHub, Docker, Linux, VS Code, IntelliJ  
+**Tools & Workflows:** Git, GitHub, Docker, Linux, Windows, VS Code, IntelliJ  
 
 **Other Skills:** Psychometrics, UX insights, software design, problem-solving, project experimentation
 
